@@ -1,0 +1,21 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.highlight
+{
+    color: orange;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding: 2px;
+}
+.half-width img
+{
+    width:100%;
+}
